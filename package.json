@@ -1,0 +1,29 @@
+{
+  "name": "wiki-viewer",
+  "version": "1.0.0",
+  "description": "A Free Code Camp project using the wikipedia API",
+  "main": "server.js",
+  "engines": {
+    "node": "7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyBurkhart/wikipedia-viewer.git"
+  },
+  "keywords": [
+    "wikipedia"
+  ],
+  "author": "Corey Burkhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyBurkhart/wikipedia-viewer/issues"
+  },
+  "homepage": "https://github.com/CoreyBurkhart/wikipedia-viewer#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
